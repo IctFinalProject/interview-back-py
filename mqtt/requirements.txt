@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+paho-mqtt==1.6.1
+cx_Oracle
+
+# pip install fastapi uvicorn
+# pip install "paho-mqtt<2.0.0"
+# pip install cx_Oracle

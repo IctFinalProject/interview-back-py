@@ -1,0 +1,20 @@
+fastapi :고성능 웹 프레임워크
+uvicorn :ASGI 서버
+cx_Oracle : Oracle 데이터베이스와 python을 연결
+python-dotenv : 환경 변수를 .env파일에서 로드
+google-cloud-storage : Google Cloud Storage와 상호 작용
+requests - HTTP 요청을 보내는데 사용되
+moviepy - 비디오 편집 및 처리
+anthropic - Anthropic의 Claude AI 모델 API
+konlpy - 한국어 자연어 처리
+librosa - 오디오 분석 
+numpy - 수치 연산
+tqdm - 진행 상황 표시 프로그래스 바
+opencv-python - 컴퓨터 비전 작업을 위한 OpenCV
+aiofiles - 비동기 파일I/O 작업
+aiohttp - 비동기 HTTP 클라이언트/서버
+pydantic -FastAPI와 함께 자주 사용됨
+asyncio - 비동기 분석 큐 작업 
+pandas - 데이터 처리 라이브러리
+mediapipe - 구글 영상 분석 머신러닝
+XGBoost - 분류, 회귀 문제에 모두 사용할 수 있는 강력한 모델
